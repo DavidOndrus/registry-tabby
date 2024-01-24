@@ -115,5 +115,27 @@
       "https://huggingface.co/stabilityai/stable-code-3b/resolve/main/stable-code-3b.gguf"
     ],
     "sha256": "629ccbdb952e1e305684504f822d5e70be53cb1225693270678d4698f3fd10a7"
+  },
+  {
+    "name": "StableCode-3B-Q5_K_M",
+    "license_name": "Other",
+    "license_url": "https://github.com/deepseek-ai/deepseek-coder/blob/main/LICENSE-MODEL",
+    "prompt_template": "<｜fim▁begin｜>{prefix}<｜fim▁hole｜>{suffix}<｜fim▁end｜>",
+    "provider_url": "https://huggingface.co/stabilityai/stable-code-3b",
+    "urls": [
+      "https://huggingface.co/stabilityai/stable-code-3b/resolve/main/stable-code-3b-Q5_K_M.gguf"
+    ],
+    "sha256": "5aab6c268e81306342c742e3287e12b8a5b89e9d02abbe11b9d15ddd5a648d3a"
+  },
+  {
+    "name": "StableCode-3B-Q6_K",
+    "license_name": "Other",
+    "license_url": "https://github.com/deepseek-ai/deepseek-coder/blob/main/LICENSE-MODEL",
+    "prompt_template": "<｜fim▁begin｜>{prefix}<｜fim▁hole｜>{suffix}<｜fim▁end｜>",
+    "provider_url": "https://huggingface.co/stabilityai/stable-code-3b",
+    "urls": [
+      "https://huggingface.co/stabilityai/stable-code-3b/resolve/main/stable-code-3b-Q6_K.gguf"
+    ],
+    "sha256": "\t9749daf176491c33a7318660f1637c97674b0070d81740be8763b2811c495bfc"
   }
 ]
